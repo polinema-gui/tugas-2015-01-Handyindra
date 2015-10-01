@@ -1,0 +1,10 @@
+c:\users\fryda riskyta\documents\visual studio 2013\Projects\MI 2E - 1431140017\MI 2E - 1431140017\bin\Debug\MI 2E - 1431140017.exe.config
+c:\users\fryda riskyta\documents\visual studio 2013\Projects\MI 2E - 1431140017\MI 2E - 1431140017\bin\Debug\MI 2E - 1431140017.exe
+c:\users\fryda riskyta\documents\visual studio 2013\Projects\MI 2E - 1431140017\MI 2E - 1431140017\bin\Debug\MI 2E - 1431140017.pdb
+c:\users\fryda riskyta\documents\visual studio 2013\Projects\MI 2E - 1431140017\MI 2E - 1431140017\bin\Debug\MI 2E - 1431140017.xml
+c:\users\fryda riskyta\documents\visual studio 2013\Projects\MI 2E - 1431140017\MI 2E - 1431140017\obj\Debug\MI_2E___1431140017.Form1.resources
+c:\users\fryda riskyta\documents\visual studio 2013\Projects\MI 2E - 1431140017\MI 2E - 1431140017\obj\Debug\MI_2E___1431140017.Resources.resources
+c:\users\fryda riskyta\documents\visual studio 2013\Projects\MI 2E - 1431140017\MI 2E - 1431140017\obj\Debug\MI 2E - 1431140017.vbproj.GenerateResource.Cache
+c:\users\fryda riskyta\documents\visual studio 2013\Projects\MI 2E - 1431140017\MI 2E - 1431140017\obj\Debug\MI 2E - 1431140017.exe
+c:\users\fryda riskyta\documents\visual studio 2013\Projects\MI 2E - 1431140017\MI 2E - 1431140017\obj\Debug\MI 2E - 1431140017.xml
+c:\users\fryda riskyta\documents\visual studio 2013\Projects\MI 2E - 1431140017\MI 2E - 1431140017\obj\Debug\MI 2E - 1431140017.pdb
